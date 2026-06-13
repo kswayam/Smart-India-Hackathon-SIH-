@@ -3,7 +3,7 @@
 ### Smart India Hackathon (SIH) 2025 | Disaster Management
 
 An end-to-end multimodal AI system designed to predict rockfall hazards in open-pit mines using UAV imagery, Digital Elevation Models (DEMs), IoT sensors, weather data, and seismic signals. The platform combines computer vision, geospatial analytics, machine learning, and real-time monitoring to generate early warnings, automate risk assessment, and support safer mining operations.
-
+Live demo : https://rockfall-temp.vercel.app/
 ---
 
 ## Problem Statement
